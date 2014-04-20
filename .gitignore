@@ -1,0 +1,6 @@
+docs/_build
+*.pyc
+data
+.DS_Store
+.coverage
+.idea
